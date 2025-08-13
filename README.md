@@ -48,3 +48,8 @@ Inspired by strategies from Olive Garden, Buffalo Wild Wings, Chipotle, and IHOP
 - Brand revitalization with improved customer loyalty.
 - Operational efficiency through optimized promotions and better staff management.
 - Revenue growth via strategic pricing and enhanced dining experiences.
+
+## Contributors
+Shyami Govind, Andrew Sager, Anthony Chang, Cynthia Wen and Rutul Bokade
+
+
